@@ -1,4 +1,4 @@
-# Olá, eu sou Michel 👋
+# Olá, Meu nome é Michel 👋
 
 ### Programador Full Stack Sênior | 13+ anos de experiência | Apaixonado por Código & Café ☕️
 
