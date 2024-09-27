@@ -18,7 +18,7 @@ Quando não estou a escrever código, provavelmente estou a tomar um bom café o
 - **CMS:** Magento, Wordpress (Desenvolvimento de temas), Prestashop
 - **Backend:** PHP, Laravel
 - **Desenvolvimento Mobile:** Ionic
-- **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite
+- **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite, Modelagem de banco de dados
 - **DevOps:** Docker, Kubernetes, CI/CD, AWS, GitLab CI, Prometheus, Grafana, CentOS, Vultr
 - **Ferramentas:** Git, Visual Studio Code, DBDesigner 4
 
