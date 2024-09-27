@@ -15,18 +15,18 @@ Quando não estou a escrever código, provavelmente estou a tomar um bom café o
 ## Tecnologias e Ferramentas
 
 - **Frontend:** React, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+), jQuery
-- **CMS:** Magento, Wordpress (Desenvolvimento de temas), Prestashop
-- **Backend:** PHP, Laravel
+- **CMS:** Magento, Wordpress (Desenvolvimento de temas), Prestashop, Tray
+- **Backend:** PHP, Laravel, Desenvolvimento de APIs Restful
 - **Desenvolvimento Mobile:** Ionic
 - **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite, Modelagem de banco de dados
 - **DevOps:** Docker, Kubernetes, CI/CD, AWS, GitLab CI, Prometheus, Grafana, CentOS, Vultr
-- **Ferramentas:** Git, Visual Studio Code, DBDesigner 4
+- **Ferramentas:** Git, Visual Studio Code, DBDesigner 4, Postman
 
 ---
 
 ## Experiência Profissional
 
-Com mais de uma década de experiência, já participei no desenvolvimento de plataformas empresariais, soluções SaaS, aplicações móveis e APIs RESTful. A minha abordagem é sempre focada na qualidade do código, testes automatizados e boas práticas de desenvolvimento.
+Com mais de uma década de experiência, já participei no desenvolvimento de plataformas empresariais, e-commerce soluções SaaS, aplicações móveis e APIs RESTful. A minha abordagem é sempre focada na qualidade do código, testes automatizados e boas práticas de desenvolvimento.
 
 ---
 
