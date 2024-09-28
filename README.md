@@ -14,7 +14,7 @@ Quando não estou a escrever código, provavelmente estou a tomar um bom café o
 
 ## Tecnologias e Ferramentas
 
-- **Frontend:** React, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+), jQuery
+- **Frontend:** React, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+), jQuery, Json
 - **CMS:** Magento, Wordpress (Desenvolvimento de temas), Prestashop, Tray
 - **Backend:** PHP, Laravel, POO
 - **Desenvolvimento Mobile:** Ionic
