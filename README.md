@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Sou um programador full-stack com mais de 13 anos de experiência, dedicado à criação de soluções robustas e escaláveis. Ao longo da minha carreira, tenho trabalhado em diversos projetos, desde desenvolvimento de frontend dinâmico até arquiteturas backend complexas. Adoro aprender novas tecnologias e partilhar o meu conhecimento com a comunidade de desenvolvedores.
+Sou um programador full-stack com mais de 13 anos de experiência, dedicado à criação de soluções robustas e escaláveis.<br> Ao longo da minha carreira, tenho trabalhado em diversos projetos, desde desenvolvimento de frontend dinâmico até arquiteturas backend complexas. Adoro aprender novas tecnologias e partilhar o meu conhecimento com a comunidade de desenvolvedores.
 
 Quando não estou a escrever código, provavelmente estou a tomar um bom café ou a explorar novas formas de otimizar processos e resolver problemas.
 
@@ -16,8 +16,10 @@ Quando não estou a escrever código, provavelmente estou a tomar um bom café o
 
 - **Frontend:** React, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+), jQuery
 - **CMS:** Magento, Wordpress (Desenvolvimento de temas), Prestashop, Tray
-- **Backend:** PHP, Laravel, Desenvolvimento de APIs Restful
+- **Backend:** PHP, Laravel, POO
 - **Desenvolvimento Mobile:** Ionic
+- **Comunicação em Tempo Real:** WebSocket
+- ** Arquitetura de APIs Web:**  APIs Restful
 - **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite, Modelagem de banco de dados
 - **DevOps:** Docker, Kubernetes, CI/CD, AWS, GitLab CI, Prometheus, Grafana, CentOS, Vultr
 - **Ferramentas:** Git, Visual Studio Code, DBDesigner 4, Postman
