@@ -19,10 +19,11 @@ Quando não estou a escrever código, provavelmente estou a tomar um bom café o
 - **Backend:** PHP, Laravel, POO
 - **Desenvolvimento Mobile:** Ionic
 - **Comunicação em Tempo Real:** WebSocket
-- **Arquitetura de APIs Web:**  APIs Restful
+- **Arquitetura de APIs Web:**  APIs Restful, SOAP 
 - **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite, Modelagem de banco de dados
 - **DevOps:** Docker, Kubernetes, CI/CD, AWS, GitLab CI, Prometheus, Grafana, CentOS, Vultr 
 - **Metodologias Ágeis:** Scrum 
+- **Arquiteturas de softwares:** Client-server (cliente-servidor), Model-view-controller (MVC), Microservices (microsserviços)
 - **Sistemas operacionais:** Ubuntu, Centos, Windows
 - **Ferramentas:** Git, Visual Studio Code, DBDesigner 4, Postman, Trello
 
