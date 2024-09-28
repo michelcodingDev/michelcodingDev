@@ -20,7 +20,7 @@ Quando não estou a escrever código, provavelmente estou a tomar um bom café o
 - **Desenvolvimento Mobile:** Ionic
 - **Comunicação em Tempo Real:** WebSocket
 - **Arquitetura de APIs Web:**  APIs Restful, SOAP 
-- **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite, Modelagem de banco de dados
+- **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite, Modelagem de banco de dados, Firebase
 - **DevOps:** Docker, Kubernetes, CI/CD, AWS, GitLab CI, Prometheus, Grafana, CentOS, Vultr 
 - **Metodologias Ágeis:** Scrum 
 - **Arquiteturas de softwares:** Client-server (cliente-servidor), Model-view-controller (MVC), Microservices (microsserviços)
