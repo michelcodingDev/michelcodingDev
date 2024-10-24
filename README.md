@@ -10,7 +10,7 @@ Sou um programador full-stack com mais de 13 anos de experiência, dedicado à c
 
 Quando não estou a escrever código, provavelmente estou a tomar um bom café ou a explorar novas formas de otimizar processos e resolver problemas.
 
-![Michel GitHub stats](https://github-readme-stats.vercel.app/api?username=michelcodingDev&show_icons=true&theme=radical&count_private=true&token=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)<br>
+![Michel GitHub stats](https://github-readme-stats.vercel.app/api?username=michelcodingDev&show_icons=true&theme=radical&count_private=true)<br>
 
 
 
