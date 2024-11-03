@@ -19,14 +19,14 @@ Quando não estou a escrever código, provavelmente estou a tomar um bom café o
 ## Tecnologias e Ferramentas
 
 - **Frontend:** React, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+), jQuery, Json, XML
-- **CMS:** Magento, Wordpress (Desenvolvimento de temas), Prestashop, Tray
-- **Backend:** PHP, Laravel, POO
+- **CMS:** Magento, Wordpress (Desenvolvimento de temas), Prestashop, Tray, Vtex, Drupal
+- **Backend:** PHP, Laravel, POO, Python
 - **Desenvolvimento Mobile:** Ionic
-- **Comunicação em Tempo Real:** WebSocket
-- **Arquitetura de APIs Web:**  APIs Restful, SOAP 
-- **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite, Modelagem de banco de dados, Firebase
-- **DevOps:** Docker, Kubernetes, CI/CD, AWS, GitLab CI, Prometheus, Grafana, CentOS, Vultr 
-- **Metodologias Ágeis:** Scrum 
+- **Comunicação em Tempo Real:** Firebase
+- **Arquitetura de APIs Web:**  APIs Restful, SOAP, WebSocket
+- **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite, Modelagem de banco de dados 
+- **DevOps:** Docker, Kubernetes, CI/CD, AWS, GitLab CI, Prometheus, Grafana, CentOS, Vultr, SSH
+- **Metodologias Ágeis:** Scrum, Kanban
 - **Arquiteturas de softwares:** Client-server (cliente-servidor), Model-view-controller (MVC), Microservices (microsserviços)
 - **Sistemas operacionais:** Ubuntu, Centos, Windows
 - **Ferramentas:** Git, Visual Studio Code, DBDesigner 4, Postman, Trello
