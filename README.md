@@ -22,8 +22,8 @@ Quando não estou a escrever código, provavelmente estou a tomar um bom café o
 - **CMS:** Magento, Wordpress (Desenvolvimento de temas), Prestashop, Tray, Vtex, Drupal
 - **Backend:** PHP, Laravel, POO, Python
 - **Desenvolvimento Mobile:** Ionic
-- **Comunicação em Tempo Real:** Firebase
-- **Arquitetura de APIs Web:**  APIs Restful, SOAP, WebSocket
+- **Comunicação em Tempo Real:** Firebase, WebSocket
+- **Arquitetura de APIs Web:**  APIs Restful, SOAP
 - **Bases de Dados:** MySQL, PostgreSQL, MongoDB, SQLite, Modelagem de banco de dados 
 - **DevOps:** Docker, Kubernetes, CI/CD, AWS, GitLab CI, Prometheus, Grafana, CentOS, Vultr, SSH
 - **Metodologias Ágeis:** Scrum, Kanban
