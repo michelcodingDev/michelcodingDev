@@ -1,6 +1,6 @@
 # Olá, Meu nome é Michel 👋
 
-### Desenvolvedor Full Stack - Sênior | 13+ anos de experiência | Apaixonado por Código & Café ☕️
+### Software Developer - Sênior | Fullstack | 13+ anos de experiência | Apaixonado por Código & Café ☕️
 
 ---
 
